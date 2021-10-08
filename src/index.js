@@ -1,3 +1,4 @@
+import "./style.scss";
 let elementtimer = document.getElementById("timer");
 let elementkeuzeSpeler1 = document.getElementById("keuzeSpeler1");
 let elementkeuzeSpeler2 = document.getElementById("keuzeSpeler2");
